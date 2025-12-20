@@ -1,0 +1,40 @@
+{
+    "home": {
+      "headline": "Generate brandable names with AI",
+      "sub": "Keywords in. Brand-ready names out — Fast. Unique. Available-domain friendly.",
+      "keywordsLabel": "Keywords",
+      "keywordsPlaceholder": "e.g. fintech, Africa, fast, trust",
+      "styleLabel": "Style",
+      "styleBrandable": "Brandable",
+      "styleRealWords": "Real words",
+      "styleCompound": "Compound",
+      "styleInvented": "Invented",
+      "lengthLabel": "Name length",
+      "lengthShort": "Short",
+      "lengthMedium": "Medium",
+      "lengthLong": "Long",
+      "generate": "Generate",
+      "saved": "Saved",
+      "empty": "No names yet — generate some ideas!"
+    },
+    "about": {
+      "title": "About Nexir",
+      "p1": "Nexir is an AI-powered brand naming studio built for founders, creators, and teams. By combining intelligent keyword analysis with real-time domain availability, Nexir helps you discover distinctive, brand-ready names faster—so you can move from idea to identity with confidence.",
+      "p2": "",
+      "valuesTitle": "What we care about",
+      "v1": "Clarity: Nexir focuses on relevance, memorability, and intent—not endless, generic options.",
+      "v2": "Originality: Fresh ideas without sounding random.",
+      "v3": "Speed: Great options in seconds, not days.",
+      "ceoTitle": "From the CEO",
+      "ceoQuote": "“Nexir is built to empower builders at every stage with intelligent naming tools that transform ideas into clear, credible, and ownable brands—without friction, guesswork, or wasted time.”"
+    },
+    "lang": {
+      "label": "Language",
+      "en": "EN",
+      "es": "ES",
+      "fr": "FR",
+      "ar": "AR",
+      "kri": "KR"
+    }
+  }
+  

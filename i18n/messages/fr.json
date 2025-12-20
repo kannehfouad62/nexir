@@ -1,0 +1,40 @@
+{
+    "home": {
+      "headline": "Générez des noms de marque avec l’IA",
+      "sub": "Rapide. Unique. Compatible avec les domaines.",
+      "keywordsLabel": "Mots-clés",
+      "keywordsPlaceholder": "ex. fintech, rapide, confiance",
+      "styleLabel": "Style",
+      "styleBrandable": "Marque",
+      "styleRealWords": "Mots réels",
+      "styleCompound": "Composé",
+      "styleInvented": "Inventé",
+      "lengthLabel": "Longueur",
+      "lengthShort": "Court",
+      "lengthMedium": "Moyen",
+      "lengthLong": "Long",
+      "generate": "Générer",
+      "saved": "Enregistrés",
+      "empty": "Aucun nom pour le moment — générez des idées !"
+    },
+    "about": {
+      "title": "À propos de Nexir",
+      "p1": "Nexir est un studio de naming de marque propulsé par l’IA, conçu pour les fondateurs, créateurs et équipes. En combinant une analyse intelligente des mots-clés avec la disponibilité des domaines en temps réel, Nexir vous aide à découvrir plus vite des noms distinctifs et prêts à devenir une marque — pour passer de l’idée à l’identité avec confiance.",
+      "p2": "",
+      "valuesTitle": "Ce qui compte pour nous",
+      "v1": "Clarté : Nexir privilégie la pertinence, la mémorisation et l’intention — pas une infinité d’options génériques.",
+      "v2": "Originalité : Des idées fraîches sans sonner au hasard.",
+      "v3": "Vitesse : De très bonnes options en quelques secondes, pas en jours.",
+      "ceoTitle": "Mot du PDG",
+      "ceoQuote": "“Nexir est conçu pour donner du pouvoir à celles et ceux qui construisent, à chaque étape, grâce à des outils de naming intelligents qui transforment les idées en marques claires, crédibles et appropriables — sans friction, suppositions ni perte de temps.”"
+    },
+    "lang": {
+      "label": "Langue",
+      "en": "EN",
+      "fr": "FR",
+      "ar": "AR",
+      "kri": "KR",
+      "es": "ES"
+    }
+  }
+  

@@ -1,0 +1,40 @@
+{
+    "home": {
+      "headline": "Mek AI help yu find beteh nem",
+      "sub": "Fast. Unique. Domain-friendly.",
+      "keywordsLabel": "Keywod dem",
+      "keywordsPlaceholder": "lek fintech, fast, trust",
+      "styleLabel": "Style",
+      "styleBrandable": "Brand style",
+      "styleRealWords": "Real wods",
+      "styleCompound": "Mix wods",
+      "styleInvented": "New nem",
+      "lengthLabel": "Nem length",
+      "lengthShort": "Short",
+      "lengthMedium": "Medium",
+      "lengthLong": "Long",
+      "generate": "Generate",
+      "saved": "Saved",
+      "empty": "No nem yet — start fo generate!"
+    },
+    "about": {
+      "title": "About Nexir",
+      "p1": "Nexir na AI-powered brand naming studio we dem build fo founder dem, creator dem, an team dem. We e mix smart keywod analysis wit real-time domain availability, so Nexir go help yu find different, brand-ready nem dem quick — so yu kin move from idea to identity wit confidence.",
+      "p2": "",
+      "valuesTitle": "Wetin we care bout",
+      "v1": "Clarity: Nexir focus pan relevance, easy fo remember, an intent — nor to endless, generic option dem.",
+      "v2": "Originality: Fresh idea dem we nor sound random.",
+      "v3": "Speed: Beteh option dem na seconds, nor to days.",
+      "ceoTitle": "From di CEO",
+      "ceoQuote": "“Nexir na fo empower builder dem na every stage wit smart naming tool dem we e turn idea dem to clear, credible, an ownable brand — nor to friction, guesswork, or waste time.”"
+    },
+    "lang": {
+      "label": "Language",
+      "en": "EN",
+      "fr": "FR",
+      "ar": "AR",
+      "kri": "KR",
+      "es": "ES"
+    }
+  }
+  
