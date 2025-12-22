@@ -1,3 +1,5 @@
+
+
 {
     "home": {
       "headline": "Générez des noms de marque avec l’IA",
@@ -15,7 +17,12 @@
       "lengthLong": "Long",
       "generate": "Générer",
       "saved": "Enregistrés",
-      "empty": "Aucun nom pour le moment — générez des idées !"
+      "empty": "Aucun nom pour le moment — générez des idées !",
+      "toneLabel": "Ton prédéfini",
+      "toneSerious": "Sérieux",
+      "toneLuxury": "Luxe",
+      "toneMinimal": "Minimaliste",
+      "tonePlayful": "Ludique"
     },
     "about": {
       "title": "À propos de Nexir",
@@ -26,8 +33,48 @@
       "v2": "Originalité : Des idées fraîches sans sonner au hasard.",
       "v3": "Vitesse : De très bonnes options en quelques secondes, pas en jours.",
       "ceoTitle": "Mot du PDG",
-      "ceoQuote": "“Nexir est conçu pour donner du pouvoir à celles et ceux qui construisent, à chaque étape, grâce à des outils de naming intelligents qui transforment les idées en marques claires, crédibles et appropriables — sans friction, suppositions ni perte de temps.”"
+      "ceoQuote": "“Nexir est conçu pour donner du pouvoir à celles et ceux qui construisent, à chaque étape, grâce à des outils de naming intelligents qui transforment les idées en marques claires, crédibles et appropriables — sans friction, suppositions ni perte de temps.”",
+      "missionTitle": "Notre mission",
+      "missionBody": "Aider les fondateurs à transformer rapidement leurs idées en identités de marque claires, crédibles et distinctives.",
+      "visionTitle": "Notre vision",
+      "visionBody": "Devenir le partenaire de confiance par excellence en matière de dénomination assistée par l'IA pour les développeurs du monde entier.",
+
+      "ceoName": "Fouad Kanneh",
+      "ceoRole": "Fondateur et PDG",
+      "ceoAlt": "PDG de Nexir",
+      "printNote": "Generated from nexir.io — About Nexir"
     },
+
+    "card": {
+      "save": "Enregistrer",
+      "saved": "Enregistré",
+      "copy": "Copier",
+      "share": "Partager",
+      "viewRationale": "Voir la justification",
+      "hideRationale": "Masquer la justification",
+      "domainSuggestions": "Suggestions de domaines",
+      "findDomains": "Trouver des domaines disponibles",
+      "checking": "Vérification…",
+      "available": "Disponible",
+      "taken": "Indisponible",
+      "premium": "Premium",
+      "pronounce": "Prononciation",
+      "pronounceEasy": "Facile",
+      "pronounceGood": "Bonne",
+      "pronounceOkay": "Correcte",
+      "pronounceHard": "Difficile",
+      "tone": "Ton",
+      "tone_luxury": "Luxe",
+      "tone_playful": "Ludique",
+      "tone_serious": "Sérieux",
+      "tone_minimal": "Minimaliste",
+      "domainHint": "Cliquez sur « Trouver des domaines disponibles » pour vérifier les extensions .ai, .io, .app et plus encore."
+},
+
+"layout": {
+      "home": "Accueil",
+      "about": "À propos de nous"
+},
     "lang": {
       "label": "Langue",
       "en": "EN",

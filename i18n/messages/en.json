@@ -15,7 +15,12 @@
       "lengthLong": "Long",
       "generate": "Generate",
       "saved": "Saved",
-      "empty": "No names yet — generate some ideas!"
+      "empty": "No names yet — generate some ideas!",
+      "toneLabel": "Tone preset",
+      "toneSerious": "Serious",
+      "toneLuxury": "Luxury",
+      "toneMinimal": "Minimal",
+      "tonePlayful": "Playful"
     },
     "about": {
       "title": "About Nexir",
@@ -25,9 +30,50 @@
       "v1": "Clarity: Nexir focuses on relevance, memorability, and intent—not endless, generic options.",
       "v2": "Originality: Fresh ideas without sounding random.",
       "v3": "Speed: Great options in seconds, not days.",
-      "ceoTitle": "From the CEO",
-      "ceoQuote": "“Nexir is built to empower builders at every stage with intelligent naming tools that transform ideas into clear, credible, and ownable brands—without friction, guesswork, or wasted time.”"
+      "ceoTitle": "FROM THE CEO",
+      "ceoQuote": "“Nexir is built to empower builders at every stage with intelligent naming tools that transform ideas into clear, credible, and ownable brands—without friction, guesswork, or wasted time.”",
+      "missionTitle": "Our Mission",
+      "missionBody": "To help founders turn ideas into clear, credible, and ownable brand identities—fast.",
+      "visionTitle": "Our Vision",
+      "visionBody": "To become the most trusted AI naming companion for builders worldwide.",
+
+      "ceoName": "Fouad Kanneh",
+      "ceoRole": "Founder & CEO",
+      "ceoAlt": "CEO of Nexir",
+      "printNote": "Generated from nexir.io — About Nexir"
     },
+   "card": {
+      "save": "Save",
+      "saved": "Saved",
+      "copy": "Copy",
+      "share": "Share",
+      "viewRationale": "View rationale",
+      "hideRationale": "Hide rationale",
+      "domainSuggestions": "Domain suggestions",
+      "findDomains": "Find available domains",
+      "checking": "Checking…",
+      "available": "Available",
+      "taken": "Taken",
+      "premium": "Premium",
+      "pronounce": "Pronounce",
+      "pronounceEasy": "Easy",
+      "pronounceGood": "Good",
+      "pronounceOkay": "Okay",
+      "pronounceHard": "Hard",
+      "tone": "Tone",
+      "tone_luxury": "Luxury",
+      "tone_playful": "Playful",
+      "tone_serious": "Serious",
+      "tone_minimal": "Minimal",
+      "domainHint": "Click “Find available domains” to check .ai, .io, .app and more."
+},
+
+"layout": {
+      "home": "Home",
+      "about": "About Us"
+},
+
+
     "lang": {
       "label": "Language",
       "en": "EN",

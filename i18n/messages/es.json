@@ -15,7 +15,12 @@
       "lengthLong": "Largo",
       "generate": "Generar",
       "saved": "Guardados",
-      "empty": "Aún no hay nombres — ¡genera ideas!"
+      "empty": "Aún no hay nombres — ¡genera ideas!",
+      "toneLabel": "Tono predefinido",
+      "toneSerious": "Serio",
+      "toneLuxury": "Lujo",
+      "toneMinimal": "Minimalista",
+      "tonePlayful": "Divertido"
     },
     "about": {
       "title": "Sobre Nexir",
@@ -26,8 +31,48 @@
       "v2": "Originalidad: Ideas frescas sin sonar al azar.",
       "v3": "Velocidad: Grandes opciones en segundos, no en días.",
       "ceoTitle": "Mensaje del CEO",
-      "ceoQuote": "“Nexir está diseñado para empoderar a quienes construyen en cualquier etapa con herramientas inteligentes de naming que transforman ideas en marcas claras, creíbles y registrables — sin fricción, suposiciones ni pérdida de tiempo.”"
+      "ceoQuote": "“Nexir está diseñado para empoderar a quienes construyen en cualquier etapa con herramientas inteligentes de naming que transforman ideas en marcas claras, creíbles y registrables — sin fricción, suposiciones ni pérdida de tiempo.”",
+      "missionTitle": "Nuestra misión",
+      "missionBody": "Para ayudar a los fundadores a convertir sus ideas en identidades de marca claras, creíbles y distintivas, de forma rápida.",
+      "visionTitle": "Nuestra visión",
+      "visionBody": "Convertirnos en el asistente de nombres con IA más confiable para desarrolladores de todo el mundo.",
+      "ceoName": "Fouad Kanneh",
+      "ceoRole": "CEO",
+      "ceoAlt": "Director ejecutivo de Nexir",
+      "printNote": "Generated from nexir.io — About Nexir"
+   
     },
+
+    "card": {
+      "save": "Guardar",
+      "saved": "Guardado",
+      "copy": "Copiar",
+      "share": "Compartir",
+      "viewRationale": "Ver justificación",
+      "hideRationale": "Ocultar justificación",
+      "domainSuggestions": "Sugerencias de dominio",
+      "findDomains": "Buscar dominios disponibles",
+      "checking": "Verificando…",
+      "available": "Disponible",
+      "taken": "Ocupado",
+      "premium": "Premium",
+      "pronounce": "Pronunciación",
+      "pronounceEasy": "Fácil",
+      "pronounceGood": "Buena",
+      "pronounceOkay": "Aceptable",
+      "pronounceHard": "Difícil",
+      "tone": "Tono",
+      "tone_luxury": "Lujo",
+      "tone_playful": "Divertido",
+      "tone_serious": "Serio",
+      "tone_minimal": "Minimalista",
+      "domainHint": "Haz clic en “Buscar dominios disponibles” para verificar .ai, .io, .app y más."
+},
+   "layout": {
+      "home": "Inicio",
+      "about": "Sobre nosotros"
+},
+
     "lang": {
       "label": "Idioma",
       "en": "EN",

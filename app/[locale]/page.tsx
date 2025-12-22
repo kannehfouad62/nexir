@@ -8,6 +8,7 @@ import { SavedDrawer } from "@/components/SavedDrawer";
 import { GeneratingSplash } from "@/components/GeneratingSplash";
 import { readSaved, toggleSaved } from "@/lib/storage";
 
+
 type Item = {
   name: string;
   tagline: string;
@@ -190,19 +191,20 @@ export default function HomePage() {
           </div>
         </div>
 
-        <div>
-  <label className="text-sm text-white/70">Tone preset</label>
+        <div className="mt-4">
+  <label className="text-sm text-white/70">{t("toneLabel")}</label>
   <select
     value={tone}
     onChange={(e) => setTone(e.target.value as any)}
     className="mt-2 w-full rounded-2xl border border-white/20 bg-zinc-950 px-4 py-3 text-sm outline-none focus:border-white/20"
   >
-    <option value="serious">Serious</option>
-    <option value="luxury">Luxury</option>
-    <option value="minimal">Minimal</option>
-    <option value="playful">Playful</option>
+    <option value="serious">{t("toneSerious")}</option>
+    <option value="luxury">{t("toneLuxury")}</option>
+    <option value="minimal">{t("toneMinimal")}</option>
+    <option value="playful">{t("tonePlayful")}</option>
   </select>
 </div>
+
 
         <div className="mt-5 flex flex-wrap items-center gap-3">
           <button

@@ -5,6 +5,9 @@ import {NextIntlClientProvider} from "next-intl";
 import {getMessages} from "next-intl/server";
 import Link from "next/link";
 import {LanguageSwitcher} from "@/components/LanguageSwitcher";
+import { getTranslations } from "next-intl/server";
+import { ReactNode } from "react";
+
 
 
 
@@ -33,7 +36,6 @@ export default async function LocaleLayout({
               <Link href={`/${locale}`} className="font-semibold tracking-wide">
                 Nexir
               </Link>
-
               <nav className="flex items-center gap-4 text-sm">
                 <Link className="hover:text-white/90 text-white/70" href={`/${locale}`}>
                   Home
@@ -43,7 +45,10 @@ export default async function LocaleLayout({
                 </Link>
                 <LanguageSwitcher />
               </nav>
+              
             </div>
+
+
           </header>
 
           <main className="mx-auto max-w-6xl px-4 py-10">{children}</main>
@@ -52,6 +57,8 @@ export default async function LocaleLayout({
             <div className="mx-auto max-w-6xl px-4 text-sm text-white/60">
               © {new Date().getFullYear()} Nexir. Powered by AI.
             </div>
+
+           
           </footer>
         </NextIntlClientProvider>
       </body>
