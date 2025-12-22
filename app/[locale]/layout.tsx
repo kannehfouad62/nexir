@@ -47,7 +47,11 @@ export default async function LocaleLayout({
               </nav>
               
             </div>
-
+             {/* ✅ Impact.com Site Verification */}
+        <meta
+          name="impact-site-verification"
+          content="34c85402-9073-4758-9260-c5a910055825"
+        />
 
           </header>
 
