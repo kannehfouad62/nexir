@@ -50,10 +50,12 @@ export default async function LocaleLayout({
              {/* ✅ Impact.com Site Verification */}
         <meta
           name="impact-site-verification"
-          content="34c85402-9073-4758-9260-c5a910055825"
+          content="45c90880-725f-4c8e-ad6e-2bd166702af6"
         />
 
           </header>
+          <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
 
           <main className="mx-auto max-w-6xl px-4 py-10">{children}</main>
 
