@@ -71,7 +71,9 @@
 
 "layout": {
       "home": "Home",
-      "about": "About Us"
+      "about": "About Us",
+      "privacy": "Privasi",
+  "terms": "Tɛm Dɛm"
 },
     "lang": {
       "label": "Language",
@@ -80,6 +82,43 @@
       "ar": "AR",
       "kri": "KR",
       "es": "ES"
-    }
+    },
+    "privacy": {
+  "title": "Praivasi Polici",
+  "updated": "Las updet: Disemba 2025",
+  "intro": "Nexir de rispek yu praivasi en no kolek pesin infomeshon.",
+  "noCollection": "Wi no de kolek ɔ kip pesin data.",
+  "localStorage": "Nɛm we yu sev de kip na yu brouza ɔnli.",
+  "cookies": "Nexir no de yus trak kuki.",
+  "thirdParty": "Oda websaet get den ɔn praivasi rul.",
+  "contact": "Yu fit kontat wi na hello@nexir.io."
+},
+"meta": {
+  "title": "Nexir",
+  "description": "AI-powered brand name generator studio."
+},
+
+"terms": {
+  "title": "Rul dem fɔ Nexir",
+  "updated": "Las updet: Disemba 2025",
+  "intro": "Dis rul de kontrol aw yu de yus Nexir.",
+  "section1Title": "1. Yu gree wit dis rul",
+  "section1Body": "Wen yu yus Nexir, yu gree wit dis rul.",
+  "section2Title": "2. Wetin Nexir bi",
+  "section2Body": "Nexir na AI sistem fɔ mek nɛm fɔ biznɛs.",
+  "section3Title": "3. No profɛshɔnal advais",
+  "section3Body": "Nexir no de gi legal ɔ biznɛs advais.",
+  "section4Title": "4. Yu rispɔnsibiliti",
+  "section4Body": "Yu fɔ yus di sistem gud.",
+  "section5Title": "5. Owna n resait",
+  "section5Body": "Nexir get di sistem.",
+  "section6Title": "6. No garantii",
+  "section6Body": "Di sistem de kam as e bi.",
+  "section7Title": "7. Chɛnj",
+  "section7Body": "Wi fit chɛnj dis rul eni taim.",
+  "contact": "Kontak wi na hello@nexir.io."
+}
+
+
   }
   

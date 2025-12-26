@@ -70,7 +70,9 @@
 },
    "layout": {
       "home": "Inicio",
-      "about": "Sobre nosotros"
+      "about": "Sobre nosotros",
+      "privacy": "Privacidad",
+  "terms": "Términos"
 },
 
     "lang": {
@@ -80,6 +82,43 @@
       "fr": "FR",
       "ar": "AR",
       "kri": "KR"
-    }
+    },
+    "privacy": {
+  "title": "Política de privacidad",
+  "updated": "Última actualización: Diciembre 2025",
+  "intro": "Nexir respeta su privacidad y no recopila datos personales.",
+  "noCollection": "No se recopila ni almacena información personal.",
+  "localStorage": "Los nombres guardados se almacenan solo en su navegador.",
+  "cookies": "Nexir no utiliza cookies de seguimiento.",
+  "thirdParty": "Los enlaces externos pueden tener sus propias políticas.",
+  "contact": "Contáctenos en hello@nexir.io."
+},
+"meta": {
+  "title": "Nexir",
+  "description": "AI-powered brand name generator studio."
+},
+
+"terms": {
+  "title": "Términos del servicio",
+  "updated": "Última actualización: Diciembre 2025",
+  "intro": "Estos términos regulan el uso de Nexir.",
+  "section1Title": "1. Aceptación",
+  "section1Body": "Al usar Nexir, acepta estos términos.",
+  "section2Title": "2. Descripción del servicio",
+  "section2Body": "Nexir es una plataforma de generación de nombres con IA.",
+  "section3Title": "3. Sin asesoramiento profesional",
+  "section3Body": "Nexir no ofrece asesoramiento legal o comercial.",
+  "section4Title": "4. Responsabilidades del usuario",
+  "section4Body": "Usted acepta no abusar del servicio.",
+  "section5Title": "5. Propiedad intelectual",
+  "section5Body": "Nexir conserva la propiedad de la plataforma.",
+  "section6Title": "6. Limitación de responsabilidad",
+  "section6Body": "El servicio se proporciona “tal cual”.",
+  "section7Title": "7. Cambios",
+  "section7Body": "Los términos pueden cambiar en cualquier momento.",
+  "contact": "Contacto: hello@nexir.io."
+}
+
+
   }
   

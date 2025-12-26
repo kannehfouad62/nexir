@@ -70,7 +70,9 @@
 
 "layout": {
       "home": "Home",
-      "about": "About Us"
+      "about": "About Us",
+      "privacy": "Privacy",
+      "terms": "Terms"
 },
 
 
@@ -81,6 +83,44 @@
       "fr": "FR",
       "ar": "AR",
       "kri": "KR"
-    }
+    },   
+  "privacy": {
+    "title": "Privacy Policy",
+    "updated": "Last updated: December 2025",
+    "intro": "Nexir respects your privacy and does not collect personal data.",
+    "noCollection": "No personal information is collected or stored.",
+    "localStorage": "Saved names are stored locally in your browser only.",
+    "cookies": "Nexir does not use tracking cookies.",
+    "thirdParty": "Third-party links may have separate privacy policies.",
+    "contact": "Contact us at hello@nexir.io for questions."
+}, 
+"meta": {
+  "title": "Nexir",
+  "description": "AI-powered brand name generator studio."
+},
+
+"terms": {
+  "title": "Terms of Service",
+  "updated": "Last updated: December 2025",
+  "intro": "These Terms of Service govern your use of Nexir.",
+  "section1Title": "1. Acceptance of Terms",
+  "section1Body": "By accessing or using Nexir, you agree to be bound by these Terms.",
+  "section2Title": "2. Description of Service",
+  "section2Body": "Nexir is an AI-powered brand name generation platform provided for informational purposes only.",
+  "section3Title": "3. No Professional Advice",
+  "section3Body": "Nexir does not provide legal, trademark, or business advice. You are responsible for verifying name availability and suitability.",
+  "section4Title": "4. User Responsibilities",
+  "section4Body": "You agree not to misuse the Service or attempt to disrupt its operation.",
+  "section5Title": "5. Intellectual Property",
+  "section5Body": "Nexir retains ownership of the platform. Generated names are not guaranteed to be unique or exclusive.",
+  "section6Title": "6. Disclaimer and Limitation of Liability",
+  "section6Body": "The Service is provided “as is” without warranties of any kind. Nexir is not liable for damages arising from use.",
+  "section7Title": "7. Changes to These Terms",
+  "section7Body": "We may update these Terms at any time. Continued use of the Service constitutes acceptance of changes.",
+  "contact": "Questions about these Terms can be sent to hello@nexir.io."
+}
+
+
+
   }
   

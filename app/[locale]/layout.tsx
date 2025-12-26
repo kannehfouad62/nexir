@@ -27,6 +27,14 @@ export default async function LocaleLayout({
   const isRTL = locale === "ar";
   const messages = await getMessages();
 
+   // ✅ DEFINE t HERE (this was missing)
+   const t = await getTranslations({
+    locale,
+    namespace: "layout"
+  });
+
+
+
   return (
     <html lang={locale} dir={isRTL ? "rtl" : "ltr"}>
       <body className="min-h-screen bg-zinc-950 text-zinc-100">
@@ -37,12 +45,7 @@ export default async function LocaleLayout({
                 Nexir
               </Link>
               <nav className="flex items-center gap-4 text-sm">
-                <Link className="hover:text-white/90 text-white/70" href={`/${locale}`}>
-                  Home
-                </Link>
-                <Link className="hover:text-white/90 text-white/70" href={`/${locale}/about`}>
-                  About Us
-                </Link>
+                
                 <LanguageSwitcher />
               </nav>
               
@@ -50,7 +53,7 @@ export default async function LocaleLayout({
              {/* ✅ Impact.com Site Verification */}
         <meta
           name="impact-site-verification"
-          content="45c90880-725f-4c8e-ad6e-2bd166702af6"
+          content="34c85402-9073-4758-9260-c5a910055825"
         />
 
           </header>
@@ -59,13 +62,44 @@ export default async function LocaleLayout({
 
           <main className="mx-auto max-w-6xl px-4 py-10">{children}</main>
 
-          <footer className="border-t border-white/10 py-8">
-            <div className="mx-auto max-w-6xl px-4 text-sm text-white/60">
-              © {new Date().getFullYear()} Nexir. Powered by AI.
+          {/* Footer */}
+        <footer className="border-t border-white/10 bg-black/40">
+          <div className="mx-auto max-w-6xl px-6 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
+            <div className="text-sm text-white/60">
+              © {new Date().getFullYear()} Nexir
             </div>
 
-           
-          </footer>
+            <nav className="flex flex-wrap items-center gap-6 text-sm">
+              <Link
+                href={`/${locale}`}
+                className="text-white/70 hover:text-white transition"
+              >
+                {t("home")}
+              </Link>
+
+              <Link
+                href={`/${locale}/about`}
+                className="text-white/70 hover:text-white transition"
+              >
+                {t("about")}
+              </Link>
+
+              <Link
+                href={`/${locale}/privacy`}
+                className="text-white/70 hover:text-white transition"
+              >
+                {t("privacy")}
+              </Link>
+
+              <Link
+                href={`/${locale}/terms`}
+                className="text-white/70 hover:text-white transition"
+              >
+                {t("terms")}
+              </Link>
+            </nav>
+          </div>
+        </footer>
         </NextIntlClientProvider>
       </body>
     </html>

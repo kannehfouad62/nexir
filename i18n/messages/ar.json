@@ -71,7 +71,10 @@
 
 "layout": {
       "home": "الرئيسية",
-      "about": "من نحن"
+      "about": "من نحن",
+      "privacy": "الخصوصية",
+  "terms": "الشروط"
+
 },
 
 
@@ -82,6 +85,43 @@
       "ar": "AR",
       "kri": "KR",
       "es": "ES"
-    }
+    },
+    "privacy": {
+  "title": "سياسة الخصوصية",
+  "updated": "آخر تحديث: ديسمبر 2025",
+  "intro": "تحترم Nexir خصوصيتك ولا تجمع بيانات شخصية.",
+  "noCollection": "لا يتم جمع أو تخزين أي معلومات شخصية.",
+  "localStorage": "يتم حفظ الأسماء محليًا في متصفحك فقط.",
+  "cookies": "لا تستخدم Nexir ملفات تعريف الارتباط للتتبع.",
+  "thirdParty": "قد يكون للروابط الخارجية سياسات خصوصية خاصة بها.",
+  "contact": "تواصل معنا عبر hello@nexir.io."
+},
+"meta": {
+  "title": "Nexir",
+  "description": "AI-powered brand name generator studio."
+},
+
+"terms": {
+  "title": "شروط الخدمة",
+  "updated": "آخر تحديث: ديسمبر 2025",
+  "intro": "تحكم هذه الشروط استخدامك لمنصة Nexir.",
+  "section1Title": "1. قبول الشروط",
+  "section1Body": "باستخدام Nexir، فإنك توافق على هذه الشروط.",
+  "section2Title": "2. وصف الخدمة",
+  "section2Body": "Nexir منصة لتوليد الأسماء باستخدام الذكاء الاصطناعي.",
+  "section3Title": "3. عدم تقديم استشارات",
+  "section3Body": "لا تقدم Nexir استشارات قانونية أو تجارية.",
+  "section4Title": "4. مسؤوليات المستخدم",
+  "section4Body": "تتعهد بعدم إساءة استخدام الخدمة.",
+  "section5Title": "5. الملكية الفكرية",
+  "section5Body": "تحتفظ Nexir بملكية المنصة.",
+  "section6Title": "6. تحديد المسؤولية",
+  "section6Body": "يتم تقديم الخدمة كما هي دون ضمانات.",
+  "section7Title": "7. التعديلات",
+  "section7Body": "قد يتم تحديث هذه الشروط في أي وقت.",
+  "contact": "للتواصل: hello@nexir.io."
+}
+
+
   }
   

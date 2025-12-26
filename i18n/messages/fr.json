@@ -73,7 +73,11 @@
 
 "layout": {
       "home": "Accueil",
-      "about": "À propos de nous"
+      "about": "À propos de nous",
+     "privacy": "Confidentialité",
+     "terms": "Conditions"
+
+
 },
     "lang": {
       "label": "Langue",
@@ -82,6 +86,43 @@
       "ar": "AR",
       "kri": "KR",
       "es": "ES"
-    }
+    },
+    "privacy": {
+  "title": "Politique de confidentialité",
+  "updated": "Dernière mise à jour : Décembre 2025",
+  "intro": "Nexir respecte votre vie privée et ne collecte pas de données personnelles.",
+  "noCollection": "Aucune information personnelle n’est collectée ou stockée.",
+  "localStorage": "Les noms enregistrés sont stockés localement dans votre navigateur.",
+  "cookies": "Nexir n’utilise pas de cookies de suivi.",
+  "thirdParty": "Les liens tiers peuvent avoir leurs propres politiques.",
+  "contact": "Contactez-nous à hello@nexir.io."
+},
+"meta": {
+  "title": "Nexir",
+  "description": "AI-powered brand name generator studio."
+},
+
+"terms": {
+  "title": "Conditions d’utilisation",
+  "updated": "Dernière mise à jour : Décembre 2025",
+  "intro": "Les présentes conditions régissent votre utilisation de Nexir.",
+  "section1Title": "1. Acceptation des conditions",
+  "section1Body": "En utilisant Nexir, vous acceptez ces conditions.",
+  "section2Title": "2. Description du service",
+  "section2Body": "Nexir est une plateforme de génération de noms assistée par l’IA à titre informatif.",
+  "section3Title": "3. Absence de conseil professionnel",
+  "section3Body": "Nexir ne fournit pas de conseils juridiques ou commerciaux.",
+  "section4Title": "4. Responsabilités de l’utilisateur",
+  "section4Body": "Vous acceptez de ne pas abuser du service.",
+  "section5Title": "5. Propriété intellectuelle",
+  "section5Body": "Nexir conserve la propriété de la plateforme.",
+  "section6Title": "6. Limitation de responsabilité",
+  "section6Body": "Le service est fourni « en l’état », sans garantie.",
+  "section7Title": "7. Modifications",
+  "section7Body": "Ces conditions peuvent être mises à jour à tout moment.",
+  "contact": "Contact : hello@nexir.io."
+}
+
+
   }
   
