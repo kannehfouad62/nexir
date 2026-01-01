@@ -41,6 +41,22 @@ export default async function LocaleLayout({
     <html lang={locale} dir={isRTL ? "rtl" : "ltr"}>
       <body className="min-h-screen bg-zinc-950 text-zinc-100">
         <NextIntlClientProvider messages={messages}>
+           {/* Google Analytics */}
+           <Script
+  src={`https://www.googletagmanager.com/gtag/js?id=G-27T9HL9VMQ`}
+  strategy="afterInteractive"
+/>
+
+<Script id="ga-init" strategy="afterInteractive">
+  {`
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-27T9HL9VMQ', {
+      anonymize_ip: true
+    });
+  `}
+</Script>
           <header className="sticky top-0 z-50 border-b border-white/10 bg-zinc-950/70 backdrop-blur">
             <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
               <Link href={`/${locale}`} className="font-semibold tracking-wide">
@@ -59,22 +75,7 @@ export default async function LocaleLayout({
         />
 
           </header>
-          {/* Google Analytics */}
-          <Script
-  src={`https://www.googletagmanager.com/gtag/js?id=G-27T9HL9VMQ`}
-  strategy="afterInteractive"
-/>
-
-<Script id="ga-init" strategy="afterInteractive">
-  {`
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-27T9HL9VMQ', {
-      anonymize_ip: true
-    });
-  `}
-</Script>
+         
 
 
 
