@@ -86,13 +86,47 @@
     "privacy": {
   "title": "Praivasi Polici",
   "updated": "Las updet: Disemba 2025",
-  "intro": "Nexir de rispek yu praivasi en no kolek pesin infomeshon.",
-  "noCollection": "Wi no de kolek ɔ kip pesin data.",
-  "localStorage": "Nɛm we yu sev de kip na yu brouza ɔnli.",
-  "cookies": "Nexir no de yus trak kuki.",
-  "thirdParty": "Oda websaet get den ɔn praivasi rul.",
-  "contact": "Yu fit kontat wi na hello@nexir.io."
+
+  "s1Title": "1. Introdɔkshɔn",
+  "s1Body": "Nexir (\"wi\", \"aw\") de rispek yu praivasi. Dis polici de tel ow infomeshon de wok wen yu de yus nexir.io, wan AI brand-nɛm platform. Nexir mek fɔ wok witaot akaunt ɔ pesin infomeshon.",
+
+  "s2Title": "2. Infomeshon we wi no de kolek",
+  "s2Body": "Nexir no de kolek, kip, ɔ proses pesin infomeshon lek nɛm, imel, fon nɔmba, yusa akaunt/profail, ɔ peyin infomeshon. Yu fit yus Nexir witaot regista ɔ tel wi u yu bi.",
+
+  "s3Title": "3. Infomeshon we yu gi bɔdɔli",
+  "s3Body": "Yu fit put keywords fɔ mek brand nɛm. Di keywords de yus ɔnli fɔ mek risɔlt na di taim we yu aks, wi no de kip am, en wi no de tay am to yu; afta di wok, e don.",
+
+  "s4Title": "4. Nɛm we yu sev (local storage)",
+  "s4Body": "If yu yus di “Save” fɔshɔn, di nɛm dem de kip na yu brouza ɔnli. Nexir no get aksɛs to dat data en e no de go na wi sava. If yu klia yu brouza data, di sev nɛm dem go los.",
+
+  "s5Title": "5. Kuki & trak",
+  "s5Body": "Nexir no de yus trak kuki ɔ ad kuki. Wi fit yus nomo smɔl teknikal storage we nɛd fɔ di basik fɔshɔn.",
+
+  "s6Title": "6. Google Analytics",
+  "s6Body": "Nexir de yus Google Analytics fɔ kolek anɔnim stɛtistik fɔ mek di service beta. E fit kolek wich pej yu visit, apɔksimet lokeshɔn (kɔntri/ridjɔn), divais en brouza tayp, weh yu kam frɔm, en aw long yu tin na pej.",
+  "s6IpTitle": "IP Anɔnim",
+  "s6IpBody": "Nexir don set IP anɔnim, we mek IP adrès de shɔt bifɔ dem kip am, so dem no fit yus am fɔ idɛntifai pesin.",
+  "s6UseTitle": "Aw wi de yus di data",
+  "s6UseBody": "Wi de yus Analytics data ɔnli fɔ andastand aw pipul de yus di saet en fɔ impruv perfɔmɛns en fɔshɔn. Nexir no de idɛntifai wan wan yusa, no de trak yusa na oda saet, en no de sel pesin data.",
+  "s6GooglePolicy": "Google in praivasi polisi: https://policies.google.com/privacy",
+
+  "s7Title": "7. Afiliɛt link dem",
+  "s7Body": "Nexir fit get afiliɛt link dem (lek domain registra). Dis link dem no de mek yu pay mɔ. Oda servis dem get den ɔn praivasi polisi.",
+
+  "s8Title": "8. Pikin praivasi",
+  "s8Body": "Nexir nɔto fɔ pikin we no rich 13, en wi no de kolek den data kɔndɔli.",
+
+  "s9Title": "9. Yu rait dem",
+  "s9Body": "Bikos Nexir no de kolek pesin data, wi no get pesin data na wi sava. Yu de kɔntrol eni tin we de kip lɔkɔl na yu brouza.",
+
+  "s10Title": "10. Chɛnj to dis polici",
+  "s10Body": "Wi fit apdet dis polici as Nexir de gro. Wi go put apdet dem na dis pej.",
+
+  "s11Title": "11. Kontak",
+  "s11Body": "If yu get kueshɔn bɔt dis polici, kontak wi na hello@nexir.io."
 },
+
+
 "meta": {
   "title": "Nexir",
   "description": "AI-powered brand name generator studio."

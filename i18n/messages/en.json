@@ -30,7 +30,7 @@
       "v1": "Clarity: Nexir focuses on relevance, memorability, and intent—not endless, generic options.",
       "v2": "Originality: Fresh ideas without sounding random.",
       "v3": "Speed: Great options in seconds, not days.",
-      "ceoTitle": "FROM THE CEO",
+      "ceoTitle": "FROM THE Founder",
       "ceoQuote": "“Nexir is built to empower builders at every stage with intelligent naming tools that transform ideas into clear, credible, and ownable brands—without friction, guesswork, or wasted time.”",
       "missionTitle": "Our Mission",
       "missionBody": "To help founders turn ideas into clear, credible, and ownable brand identities—fast.",
@@ -85,15 +85,49 @@
       "kri": "KR"
     },   
   "privacy": {
-    "title": "Privacy Policy",
-    "updated": "Last updated: December 2025",
-    "intro": "Nexir respects your privacy and does not collect personal data.",
-    "noCollection": "No personal information is collected or stored.",
-    "localStorage": "Saved names are stored locally in your browser only.",
-    "cookies": "Nexir does not use tracking cookies.",
-    "thirdParty": "Third-party links may have separate privacy policies.",
-    "contact": "Contact us at hello@nexir.io for questions."
-}, 
+  "title": "Privacy Policy",
+  "updated": "Last updated: December 2025",
+
+  "s1Title": "1. Introduction",
+  "s1Body": "Nexir (\"we\", \"our\", or \"us\") respects your privacy. This Privacy Policy explains how information is handled when you use nexir.io, an AI-powered brand name generation platform. Nexir is designed to function without requiring user accounts or personal information.",
+
+  "s2Title": "2. Information We Do Not Collect",
+  "s2Body": "Nexir does not collect, store, or process personal information such as names, email addresses, phone numbers, user accounts, profiles, or payment information. You can use Nexir without signing up or identifying yourself.",
+
+  "s3Title": "3. Information You Provide Voluntarily",
+  "s3Body": "You may enter keywords to generate brand names. These inputs are used only to generate results in real time, are not stored or linked to you, and are discarded after processing.",
+
+  "s4Title": "4. Saved Names (Local Storage)",
+  "s4Body": "If you use the “Save” feature, saved names are stored locally in your browser. Nexir cannot access this data, and it does not leave your device. Clearing your browser data will remove saved names.",
+
+  "s5Title": "5. Cookies & Tracking",
+  "s5Body": "Nexir does not use tracking cookies or advertising cookies. Only essential technical storage may be used to support basic functionality.",
+
+  "s6Title": "6. Google Analytics",
+  "s6Body": "Nexir uses Google Analytics to collect anonymous usage statistics to help improve the Service. Google Analytics may collect pages visited, approximate location (country/region), device and browser type, referring source, and time spent on pages.",
+  "s6IpTitle": "IP Anonymization",
+  "s6IpBody": "Nexir has enabled IP anonymization, meaning IP addresses are shortened before storage and cannot be used to identify individuals.",
+  "s6UseTitle": "How Data Is Used",
+  "s6UseBody": "Analytics data is used only to understand site usage and improve performance and features. Nexir does not identify individual users, track users across websites, or sell personal data.",
+  "s6GooglePolicy": "Google’s privacy policy: https://policies.google.com/privacy",
+
+  "s7Title": "7. Affiliate Links",
+  "s7Body": "Nexir may include affiliate links (such as domain registrars). These links do not increase your cost. Third-party services have their own privacy policies.",
+
+  "s8Title": "8. Children’s Privacy",
+  "s8Body": "Nexir is not intended for children under 13 and does not knowingly collect data from children.",
+
+  "s9Title": "9. Your Rights",
+  "s9Body": "Since Nexir does not collect personal data, there is no personal data stored on our servers. You control all locally stored information.",
+
+  "s10Title": "10. Changes to This Policy",
+  "s10Body": "This Privacy Policy may be updated as Nexir evolves. Updates will be posted on this page.",
+
+  "s11Title": "11. Contact",
+  "s11Body": "If you have questions about this Privacy Policy, contact us at hello@nexir.io."
+},
+
+
 "meta": {
   "title": "Nexir",
   "description": "AI-powered brand name generator studio."

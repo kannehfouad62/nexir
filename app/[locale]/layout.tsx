@@ -7,6 +7,8 @@ import Link from "next/link";
 import {LanguageSwitcher} from "@/components/LanguageSwitcher";
 import { getTranslations } from "next-intl/server";
 import { ReactNode } from "react";
+import Script from "next/script";
+
 
 
 
@@ -57,6 +59,25 @@ export default async function LocaleLayout({
         />
 
           </header>
+          {/* Google Analytics */}
+          <Script
+  src={`https://www.googletagmanager.com/gtag/js?id=G-27T9HL9VMQ`}
+  strategy="afterInteractive"
+/>
+
+<Script id="ga-init" strategy="afterInteractive">
+  {`
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-27T9HL9VMQ', {
+      anonymize_ip: true
+    });
+  `}
+</Script>
+
+
+
           <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 
 

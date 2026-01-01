@@ -85,14 +85,48 @@
     },
     "privacy": {
   "title": "Política de privacidad",
-  "updated": "Última actualización: Diciembre 2025",
-  "intro": "Nexir respeta su privacidad y no recopila datos personales.",
-  "noCollection": "No se recopila ni almacena información personal.",
-  "localStorage": "Los nombres guardados se almacenan solo en su navegador.",
-  "cookies": "Nexir no utiliza cookies de seguimiento.",
-  "thirdParty": "Los enlaces externos pueden tener sus propias políticas.",
-  "contact": "Contáctenos en hello@nexir.io."
+  "updated": "Última actualización: Diciembre de 2025",
+
+  "s1Title": "1. Introducción",
+  "s1Body": "Nexir (\"nosotros\", \"nuestro\") respeta su privacidad. Esta política explica cómo se maneja la información cuando utiliza nexir.io, una plataforma de generación de nombres de marca con IA. Nexir está diseñado para funcionar sin cuentas de usuario ni información personal.",
+
+  "s2Title": "2. Información que no recopilamos",
+  "s2Body": "Nexir no recopila, almacena ni procesa información personal como nombre, correo electrónico, número de teléfono, cuentas o perfiles de usuario, ni información de pago. Puede usar Nexir sin registrarse ni identificarse.",
+
+  "s3Title": "3. Información que usted proporciona voluntariamente",
+  "s3Body": "Puede ingresar palabras clave para generar nombres. Estas entradas se usan solo para generar resultados en tiempo real, no se almacenan ni se vinculan a usted, y se descartan después del procesamiento.",
+
+  "s4Title": "4. Nombres guardados (almacenamiento local)",
+  "s4Body": "Si usa la función “Guardar”, los nombres se almacenan localmente en su navegador. Nexir no puede acceder a esos datos y no salen de su dispositivo. Borrar los datos del navegador eliminará los nombres guardados.",
+
+  "s5Title": "5. Cookies y seguimiento",
+  "s5Body": "Nexir no utiliza cookies de seguimiento ni cookies publicitarias. Solo se puede usar almacenamiento técnico esencial para la funcionalidad básica.",
+
+  "s6Title": "6. Google Analytics",
+  "s6Body": "Nexir utiliza Google Analytics para recopilar estadísticas de uso anónimas y mejorar el Servicio. Google Analytics puede recopilar páginas visitadas, ubicación aproximada (país/región), tipo de dispositivo y navegador, fuente de referencia y tiempo en las páginas.",
+  "s6IpTitle": "Anonimización de IP",
+  "s6IpBody": "Nexir ha habilitado la anonimización de IP, lo que significa que las direcciones IP se acortan antes de almacenarse y no pueden utilizarse para identificar a una persona.",
+  "s6UseTitle": "Cómo se usan los datos",
+  "s6UseBody": "Los datos de Analytics se usan solo para entender el uso del sitio y mejorar el rendimiento y las funciones. Nexir no identifica usuarios individuales, no rastrea usuarios en otros sitios y no vende datos personales.",
+  "s6GooglePolicy": "Política de privacidad de Google: https://policies.google.com/privacy",
+
+  "s7Title": "7. Enlaces de afiliados",
+  "s7Body": "Nexir puede incluir enlaces de afiliados (por ejemplo, registradores de dominios). Estos enlaces no aumentan su costo. Los servicios de terceros tienen sus propias políticas de privacidad.",
+
+  "s8Title": "8. Privacidad de menores",
+  "s8Body": "Nexir no está destinado a menores de 13 años y no recopila datos de menores de forma consciente.",
+
+  "s9Title": "9. Sus derechos",
+  "s9Body": "Como Nexir no recopila datos personales, no hay datos personales almacenados en nuestros servidores. Usted controla cualquier información almacenada localmente.",
+
+  "s10Title": "10. Cambios en esta política",
+  "s10Body": "Esta política puede actualizarse a medida que Nexir evolucione. Los cambios se publicarán en esta página.",
+
+  "s11Title": "11. Contacto",
+  "s11Body": "Si tiene preguntas sobre esta política, contáctenos en hello@nexir.io."
 },
+
+
 "meta": {
   "title": "Nexir",
   "description": "AI-powered brand name generator studio."

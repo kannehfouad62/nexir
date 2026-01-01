@@ -90,13 +90,47 @@
     "privacy": {
   "title": "Politique de confidentialité",
   "updated": "Dernière mise à jour : Décembre 2025",
-  "intro": "Nexir respecte votre vie privée et ne collecte pas de données personnelles.",
-  "noCollection": "Aucune information personnelle n’est collectée ou stockée.",
-  "localStorage": "Les noms enregistrés sont stockés localement dans votre navigateur.",
-  "cookies": "Nexir n’utilise pas de cookies de suivi.",
-  "thirdParty": "Les liens tiers peuvent avoir leurs propres politiques.",
-  "contact": "Contactez-nous à hello@nexir.io."
+
+  "s1Title": "1. Introduction",
+  "s1Body": "Nexir (« nous », « notre ») respecte votre vie privée. Cette politique explique comment les informations sont traitées lorsque vous utilisez nexir.io, une plateforme de génération de noms de marque par IA. Nexir est conçu pour fonctionner sans compte utilisateur ni informations personnelles.",
+
+  "s2Title": "2. Informations que nous ne collectons pas",
+  "s2Body": "Nexir ne collecte, ne stocke et ne traite pas d’informations personnelles telles que le nom, l’email, le numéro de téléphone, les comptes ou profils utilisateur, ou les informations de paiement. Vous pouvez utiliser Nexir sans vous inscrire ni vous identifier.",
+
+  "s3Title": "3. Informations fournies volontairement",
+  "s3Body": "Vous pouvez saisir des mots-clés pour générer des noms. Ces données sont utilisées uniquement pour produire des résultats en temps réel, ne sont pas enregistrées ni associées à vous, et sont supprimées après le traitement.",
+
+  "s4Title": "4. Noms enregistrés (stockage local)",
+  "s4Body": "Si vous utilisez la fonctionnalité « Enregistrer », les noms sont stockés localement dans votre navigateur. Nexir ne peut pas accéder à ces données et elles ne quittent pas votre appareil. Supprimer les données du navigateur effacera les noms enregistrés.",
+
+  "s5Title": "5. Cookies et suivi",
+  "s5Body": "Nexir n’utilise pas de cookies de suivi ni de cookies publicitaires. Seul un stockage technique essentiel peut être utilisé pour assurer les fonctionnalités de base.",
+
+  "s6Title": "6. Google Analytics",
+  "s6Body": "Nexir utilise Google Analytics pour collecter des statistiques d’utilisation anonymes afin d’améliorer le Service. Google Analytics peut collecter les pages visitées, une localisation approximative (pays/région), le type d’appareil et de navigateur, la source de référence et le temps passé sur les pages.",
+  "s6IpTitle": "Anonymisation de l’adresse IP",
+  "s6IpBody": "Nexir a activé l’anonymisation des adresses IP : elles sont raccourcies avant d’être stockées et ne permettent pas d’identifier une personne.",
+  "s6UseTitle": "Utilisation des données",
+  "s6UseBody": "Les données Analytics servent uniquement à comprendre l’utilisation du site et à améliorer les performances et les fonctionnalités. Nexir n’identifie pas les utilisateurs, ne suit pas les utilisateurs sur d’autres sites et ne vend pas de données personnelles.",
+  "s6GooglePolicy": "Politique de confidentialité de Google : https://policies.google.com/privacy",
+
+  "s7Title": "7. Liens d’affiliation",
+  "s7Body": "Nexir peut inclure des liens d’affiliation (par exemple vers des registrars de domaines). Ces liens n’augmentent pas votre coût. Les services tiers ont leurs propres politiques de confidentialité.",
+
+  "s8Title": "8. Confidentialité des enfants",
+  "s8Body": "Nexir n’est pas destiné aux enfants de moins de 13 ans et ne collecte pas sciemment de données les concernant.",
+
+  "s9Title": "9. Vos droits",
+  "s9Body": "Comme Nexir ne collecte pas de données personnelles, aucune donnée personnelle n’est stockée sur nos serveurs. Vous contrôlez toutes les informations stockées localement.",
+
+  "s10Title": "10. Modifications de cette politique",
+  "s10Body": "Cette politique peut être mise à jour à mesure que Nexir évolue. Les mises à jour seront publiées sur cette page.",
+
+  "s11Title": "11. Contact",
+  "s11Body": "Pour toute question concernant cette politique, contactez-nous à hello@nexir.io."
 },
+
+
 "meta": {
   "title": "Nexir",
   "description": "AI-powered brand name generator studio."

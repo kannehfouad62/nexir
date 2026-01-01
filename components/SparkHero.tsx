@@ -2,7 +2,7 @@
 
 import {useEffect, useState} from "react";
 
-const PHRASES = ["Fintech.", "Sport.", "Beauty.", "Retail.", "SaaS.", "Travel.", "Health."];
+const PHRASES = ["Web.", "Sport.", "Design.", "Retail.", "SaaS.", "Travel.", "Health."];
 
 export function SparkHero({headline, sub}: {headline: string; sub: string}) {
   const [i, setI] = useState(0);
