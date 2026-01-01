@@ -57,6 +57,10 @@ export default async function LocaleLayout({
     });
   `}
 </Script>
+
+<div style={{ position: "absolute", left: "-9999px", top: 0 }}>
+  Impact-Site-Verification: 0efe8734-098b-4911-a4a0-9595f8868198
+</div>
           <header className="sticky top-0 z-50 border-b border-white/10 bg-zinc-950/70 backdrop-blur">
             <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
               <Link href={`/${locale}`} className="font-semibold tracking-wide">
@@ -71,7 +75,7 @@ export default async function LocaleLayout({
              {/* ✅ Impact.com Site Verification */}
         <meta
           name="impact-site-verification"
-          content="34c85402-9073-4758-9260-c5a910055825"
+          content="0efe8734-098b-4911-a4a0-9595f8868198"
         />
 
           </header>
